@@ -32,7 +32,6 @@ It contains the following 6 fields:
 **EDA**: We see that there are equal amounts of Positive and Negative Tweets (800KEach).
 **Preprocessing Data**: Replacing URL, emojis and special characters and lower casing the text, removing stopwords and do Lemmatizing
 **Model Used**: Logistic Regression  
-**Confusion Matrix**: Find confusionMatrix file in the root folder.
 
 # Conclusion
 We can clearly see that the Logistic Regression Model performs great. It achieves nearly** 82% accuracy** while classifying the  sentiment of a tweet.  
